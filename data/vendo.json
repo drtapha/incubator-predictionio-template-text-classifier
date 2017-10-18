@@ -1,0 +1,50 @@
+{
+  "eventTime" : "2015-06-08T16:45:00.590+0000",
+  "entityId": 1,
+  "properties": {
+    "text" : "Hallelujah",
+    "label": "electronics"
+  },
+   "event": "vendo",
+   "entityType": "content"
+}
+{
+  "eventTime" : "2015-06-08T16:45:00.590+0000",
+  "entityId": 1,
+  "properties": {
+    "text" : "Hallelujah",
+    "label": "electronics"
+  },
+  "event": "vendo",
+  "entityType": "content"
+}
+{
+  "eventTime" : "2015-06-08T16:45:00.590+0000",
+  "entityId": 1,
+  "properties": {
+    "text" : "Hallelujah",
+    "label": "electronics"
+  },
+  "event": "vendo",
+  "entityType": "content"
+}
+{
+  "eventTime" : "2015-06-08T16:45:00.590+0000",
+  "entityId": 1,
+  "properties": {
+    "text" : "Hallelujah",
+    "label": "electronics"
+  },
+  "event": "vendo",
+  "entityType": "content"
+}
+{
+  "eventTime" : "2015-06-08T16:45:00.590+0000",
+  "entityId": 1,
+  "properties": {
+    "text" : "Hallelujah",
+    "label": "electronics"
+  },
+  "event": "vendo",
+  "entityType": "content"
+}
